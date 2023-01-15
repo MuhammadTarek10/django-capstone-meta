@@ -1,0 +1,6 @@
+*.vscode
+*DS*
+*__pycache__
+migrations/
+*.png
+*.jpg
